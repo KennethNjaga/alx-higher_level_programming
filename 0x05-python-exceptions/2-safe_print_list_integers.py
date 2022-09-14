@@ -9,5 +9,5 @@ def safe_print_list_integers(my_list=[], x=0):
             raise e
         except Exception:
             pass
-        print ()
-        return printed
+    print()
+    return printed
