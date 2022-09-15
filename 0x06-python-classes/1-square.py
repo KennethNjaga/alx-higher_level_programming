@@ -11,4 +11,4 @@ class Square:
                 size (int): size initializer
         """
 
-        self.__size = 
+        self.__size = size
